@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+	<id>BFPaperButtonXamarinIOS</id>
+	<version>1.0.1</version>
+	<title>BFPaperButtonXamarinIOS</title>
+	<authors>DMinta</authors>
+	<owners>DMinta</owners>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<description>Port BFPaperButton to Xamarin.IOS</description>
+	<releaseNotes>Material Design Paper Button</releaseNotes>
+	<copyright>Copyright 2016 DMinta</copyright>
+	
+  </metadata>  
+  <files>
+	
+	<!-- Xamarin for iOS -->
+	<file src="BFPaperButtonXamarinIOS\bin\Release\BFPaperButtonXamarinIOS.dll" target="lib\xamarinios10" />
+	
+  </files>
+</package>
